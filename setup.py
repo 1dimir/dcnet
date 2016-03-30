@@ -9,7 +9,7 @@ setup(
         description='Danceconvention.net api python implementation',
         author='Dmitry Sorokin',
         author_email='inbox@dimir.name',
-        lincence='MIT',
+        license='MIT',
         py_modules='dcnet'
 )
 
